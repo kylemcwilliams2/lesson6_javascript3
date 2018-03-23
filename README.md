@@ -4,19 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 23, 2018
 
 ### Student Name:  
-(First and Last Name)
+Kyle McWilliams
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment was about getting more familiar with the advantages of javascript. Specifically, a photo gallery and how to maximize it's appearance. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+
+https://kylemcwilliams2.github.io/lesson6_javascript3/.
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned about the advantages of DOM and how the work to execute the tasks we desire. 
+2. I learned that BOM holds everything that we see in the browser or website. 
+3. Cloning Nodes is the same as creating a new node.
